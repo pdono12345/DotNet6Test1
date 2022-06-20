@@ -15,3 +15,7 @@
 - 流程
 
   code > git push > [ Jenkins_start] > SonarQube > UnitTest > Docker publish > [ Jenkins_end ]
+  
+- 歷程
+
+  - 2022.06.20 建立 Jenkins 與 github webhook 的連結測試
